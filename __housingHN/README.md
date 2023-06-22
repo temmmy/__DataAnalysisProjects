@@ -1,0 +1,1 @@
+Well, his is my first mini-project and, to be completely honest, a part of the project (Deep Learning Part) I mostly copied from another notebook from Kaggle. Still, I have learnt a lot of new things and in future projects I hope I will be able to do everything by myself.
